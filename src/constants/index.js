@@ -250,7 +250,7 @@ const projects = [
       },
     ],
     image: status_q,
-    source_code_link: "https://github.com/DininduChamikara/StatusQ-FE-latest",
+    source_code_link: "https://github.com/DininduPeiris/StatusQ-Frontend-React",
   },
   {
     name: "Mobile NoteKeeper App",
@@ -271,7 +271,7 @@ const projects = [
       },
     ],
     image: mobile_notekeeper,
-    source_code_link: "https://github.com/DininduChamikara/NoteKeeper-App",
+    source_code_link: "https://github.com/DininduPeiris/Notekeeper-App-Android-Java",
   },
   {
     name: "DCP mobile Apps website",
@@ -293,7 +293,7 @@ const projects = [
     ],
     image: dcp_mobile_apps,
     source_code_link:
-      "https://github.com/DininduChamikara/dcp-mobile-apps-official",
+      "https://github.com/DininduPeiris/DCP-Mobile-Apps-Website-React",
   },
   {
     name: "Sri Lanka NIC Decoder",
@@ -315,7 +315,7 @@ const projects = [
     ],
     image: nic_decorder,
     source_code_link:
-      "https://github.com/DininduChamikara/Sri-Lanka-Nic-Decorder",
+      "https://github.com/DininduPeiris/Sri-Lanka-NIC-Decoder-Android-Java",
   },
   {
     name: "WallArt Gallery",
@@ -332,7 +332,7 @@ const projects = [
       },
     ],
     image: wallart_gallery,
-    source_code_link: "https://github.com/DininduChamikara/WallArtGallery",
+    source_code_link: "https://github.com/DininduPeiris/WallArt-Gallery-Flutter",
   },
 ];
 
