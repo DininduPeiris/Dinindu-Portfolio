@@ -16,7 +16,7 @@ import SpanningLoader from "./components/SpanningLoader";
 const App = () => {
   const [isFullyLoaded, setIsFullyLoaded] = useState(false);
 
-  window.addEventListener("load", (event) => {
+  window.addEventListener("load", () => {
     console.log("page is fully loaded");
     setIsFullyLoaded(true);
   });

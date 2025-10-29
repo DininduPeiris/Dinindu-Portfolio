@@ -47,13 +47,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software developer with experience in TypeScipt,
+        I&apos;m a skilled software developer with experience in TypeScript,
         JavaScript, Java, C#, Dart, Python, C++, and experience in frameworks
-        like React, Node.js, Express.js, Three.js, Flutter and React-Native. I'm
-        a quick learner, a flexible team worker, a knowledge and experiences
-        seeker, and a friendly, sociable character who is with communication and
-        project management skills. Let's work together to bring your ideas to
-        life!
+        like React, Node.js, Express.js, Three.js, Flutter and React-Native.
+        I&apos;m a quick learner, a flexible team worker, a knowledge and
+        experiences seeker, and a friendly, sociable character who is with
+        communication and project management skills. Let&apos;s work together to
+        bring your ideas to life!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
@@ -65,7 +65,6 @@ const About = () => {
       <div class="hidden lg:hidden sm:hidden md:block mt-20">
         <CV_DownloadBtn />
       </div>
-
     </>
   );
 };
